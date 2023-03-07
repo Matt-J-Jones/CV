@@ -1,12 +1,5 @@
-``` 
-                      ███╗   ███╗ █████╗ ████████╗████████╗         ██╗ ██████╗ ███╗   ██╗███████╗███████╗
-                      ████╗ ████║██╔══██╗╚══██╔══╝╚══██╔══╝         ██║██╔═══██╗████╗  ██║██╔════╝██╔════╝
-                      ██╔████╔██║███████║   ██║      ██║            ██║██║   ██║██╔██╗ ██║█████╗  ███████╗
-                      ██║╚██╔╝██║██╔══██║   ██║      ██║       ██   ██║██║   ██║██║╚██╗██║██╔══╝  ╚════██║
-                      ██║ ╚═╝ ██║██║  ██║   ██║      ██║       ╚█████╔╝╚██████╔╝██║ ╚████║███████╗███████║
-                      ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝        ╚════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝
-```                                  
-                                                                                     
+## Matt Jones                               
+    
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
@@ -18,15 +11,25 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Engineering Control Supplies** (April 2019 to March 2023)  
+_Project Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Overseeing the project lifecycle, from quoting to project delivery.
+- Creating and reviewing  project programmes for works, forecasting and reporting on future and in-progress projects.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+**Russell Cawberry** (June 2017 to March 2019)  
+_CAD & Planning Coordinator_
+
+- Producing work-to drawings in 2D CAD.
+- Maintaining drawing version control.
+
+**ECS Special Projects** (January 2014 to June 2017)
+_Design Project Manager_
+
+- Attending project briefings, preparing and submitting bids, and managing pre-works procurement.
+- Managing a small multi-disciplinary team, consisting of designers, engineers, and external contractors.
+
 
 ## Skills
 
@@ -52,7 +55,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2023 to June 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -61,15 +64,25 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Goldsmiths, University of London (September 2021 to October 2022)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MA Independant Games and Playable Experiance Design
+
+
+#### University of Central Lancashire (September 2004 to May 2009)
+
+- BA(Hons) Criminology & Criminal Justice
+
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+**Alpha Academy** - PRINCE2 Foundation & Practitioner.
+**SPOCE** - AgilePM Practitioner
+**HarvardX** - CS50G Introduction to Game Development
+**FreeCodeCamp** - Certificate in Responsive Web Design
+**IBM** - Python Basics for Data Science
+**City & Guilds** - AutoCAD 2D Level 3
+**Association for Project Management (APM)** - Associate Member
 
 ## Hobbies
 

@@ -87,4 +87,4 @@ Effective communication is a critical component of project management, and I exc
 
 ## Hobbies
 
-Designing computer games, creative coding, physical computing projects
+In my spare time, I enjoy designing computer games, exploring creative coding, and working on physical computing projects. These hobbies allow me to channel my creativity and passion for innovation, helping me stay up-to-date with the latest technological trends and developments.

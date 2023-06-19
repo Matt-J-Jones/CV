@@ -15,39 +15,6 @@ What excites me most about technology is its limitless potential for innovation,
 | **Bruno** | A physical computing project exploring anthropomorphism | C++, Arduino, Physical Computing | [Project Page](https://mttjns.co.uk/Bruno) |
 | **Self Portrait** | A creative computing project about the relationship between the artist and their art | C++, OpenFrameworks | [Project Page](https://mttjns.co.uk/SelfPortrait) |
 
-## Work Experience
-
-- **Engineering Control Supplies Ltd** (April 2019 to March 2023)  
-  - _Project Manager_
-    - Worked in a Waterfall manufacturing / fabrication project environment. 
-    - Managed end-to-end project lifecycle, from project quoting to delivery.
-    - Developed and reviewed project plans and schedules, forecasting and reporting on future and ongoing projects.
-    - Worked closely with cross-functional teams, vendors and stakeholders to ensure project success.
-- **Russell Cawberry Ltd** (June 2017 to March 2019)  
-  - _CAD & Planning Coordinator_
-    - Produced accurate 2D CAD drawings according to project requirements.
-    - Maintained drawing version control, ensuring all project stakeholders have access to the most up-to-date drawings.
-- **Special Projects Ltd** (January 2014 to June 2017)
-  - _Design Project Manager_
-    - Led pre-works procurement, including bid preparation and submission, and managing project budgets.
-    - Managed a small, multi-disciplinary team of designers, engineers, and contractors.
-    - Attended project briefings, ensuring the project team is fully informed of project requirements and timelines.
-
-
-## Skills
-
-- #### People Management 
-  * As a Project Manager, I have honed my skills in leading teams and fostering a collaborative work environment under both Agile and Waterfall methodologies. I have experience in managing diverse teams, delegating tasks, and ensuring everyone is working effectively towards a common goal. Through my approachable leadership style, I have cultivated an environment of trust and open communication, resulting in successful project outcomes.
-
-- #### Project Planning 
-  * I excel in project planning and management, having developed and executed multiple project plans throughout my career. With a strong understanding of project management methodologies, I am skilled in setting realistic timelines and ensuring that projects are completed on schedule. I have experience in identifying and mitigating potential risks to the project and keeping stakeholders informed and involved throughout the process.
-
-- #### Attention to Detail 
-  * My attention to detail is an essential skill that allows me to monitor project progress effectively, identify issues early, and address them in a timely manner. I am skilled in tracking multiple project variables, ensuring that all project components are working together cohesively. I am proactive in anticipating potential problems and have a keen eye for detail that ensures every project is completed to the highest standards.
-
-- #### Communication 
-  * Effective communication is a critical component of project management, and I excel in this area. I am skilled in communicating with stakeholders, team members, and customers, ensuring that everyone has a clear understanding of project goals, timelines, and requirements. My approachable nature and active listening skills allow me to build strong relationships with stakeholders, promoting open communication and ensuring project success.
-
 ## Education
 
 #### **Makers Academy (March 2023 to June 2023)**
@@ -71,20 +38,56 @@ What excites me most about technology is its limitless potential for innovation,
 
 - BA(Hons) Criminology & Criminal Justice
 
-**Alpha Academy** - PRINCE2 Foundation & Practitioner.
+## Work Experience
 
-**SPOCE** - AgilePM Practitioner
+- **Engineering Control Supplies Ltd** (April 2019 to March 2023)  
+  - _Project Manager_
+    - Worked in a Waterfall manufacturing / fabrication project environment. 
+    - Managed end-to-end project lifecycle, from project quoting to delivery.
+    - Developed and reviewed project plans and schedules, forecasting and reporting on future and ongoing projects.
+    - Worked closely with cross-functional teams, vendors and stakeholders to ensure project success.
+- **Russell Cawberry Ltd** (June 2017 to March 2019)  
+  - _CAD & Planning Coordinator_
+    - Produced accurate 2D CAD drawings according to project requirements.
+    - Maintained drawing version control, ensuring all project stakeholders have access to the most up-to-date drawings.
+- **Special Projects Ltd** (January 2014 to June 2017)
+  - _Design Project Manager_
+    - Led pre-works procurement, including bid preparation and submission, and managing project budgets.
+    - Managed a small, multi-disciplinary team of designers, engineers, and contractors.
+    - Attended project briefings, ensuring the project team is fully informed of project requirements and timelines.
 
-**HarvardX** - CS50G Introduction to Game Development
 
-**FreeCodeCamp** - Certificate in Responsive Web Design
+## Skills
 
-**IBM** - Python Basics for Data Science
+- #### People Management 
+    * As a Project Manager, I have honed my skills in leading teams and fostering a collaborative work environment under both Agile and Waterfall methodologies. I have experience in managing diverse teams, delegating tasks, and ensuring everyone is working effectively towards a common goal. Through my approachable leadership style, I have cultivated an environment of trust and open communication, resulting in successful project outcomes.
 
-**City & Guilds** - AutoCAD 2D Level 3
+- #### Project Planning 
+    * I excel in project planning and management, having developed and executed multiple project plans throughout my career. With a strong understanding of project management methodologies, I am skilled in setting realistic timelines and ensuring that projects are completed on schedule. I have experience in identifying and mitigating potential risks to the project and keeping stakeholders informed and involved throughout the process.
 
-**Association for Project Management (APM)** - Associate Member
+- #### Attention to Detail 
+    * My attention to detail is an essential skill that allows me to monitor project progress effectively, identify issues early, and address them in a timely manner. I am skilled in tracking multiple project variables, ensuring that all project components are working together cohesively. I am proactive in anticipating potential problems and have a keen eye for detail that ensures every project is completed to the highest standards.
 
-## Hobbies
+- #### Communication 
+    * Effective communication is a critical component of project management, and I excel in this area. I am skilled in communicating with stakeholders, team members, and customers, ensuring that everyone has a clear understanding of project goals, timelines, and requirements. My approachable nature and active listening skills allow me to build strong relationships with stakeholders, promoting open communication and ensuring project success.
 
-In my spare time, I enjoy designing games, exploring creative coding, and working on physical computing projects. These hobbies allow me to channel my creativity and passion for innovation, helping me stay up-to-date with the latest technological trends and developments.
+- #### Alpha Academy
+    * PRINCE2 Foundation & Practitioner
+
+- #### SPOCE
+    * AgilePM Practitioner
+
+- #### HarvardX
+    * CS50G Introduction to Game Development
+
+- #### FreeCodeCamp
+    * Certificate in Responsive Web Design
+
+- #### IBM
+    * Python Basics for Data Science
+
+- #### City & Guilds**
+    * AutoCAD 2D Level 3
+
+- #### Association for Project Management (APM)
+    * Associate Member

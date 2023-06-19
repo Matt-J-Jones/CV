@@ -10,6 +10,7 @@ What excites me most about technology is its limitless potential for innovation,
 | ---------------------------- | ----------------- | ----------------- | ----- |
 | **The London Underground Orchestra** | A webapp for the sonification of data calls from the TfL api. | Javascript, React, Node | [Live Site](https://lupo.onrender.com/) |   
 | **Moangoose** | A webapp to do allow users to create accounts and post 'moans' semi anonymously. | Javascript, MongoDB, Express, React, Node | [Github Repo](https://github.com/Matt-J-Jones/moangoose-MERN) |
+| **LairBnB** | A AirBnB-Style webapp that allows users to list and book properties | Ruby, Sinatra, Postgres, RSpec | [Github Repo](https://github.com/pablisch/lair-bnb) |
 | **Me, The Machine, and Edgar** | A collaborative game project between myself as a designer and an AI representation of Edgar Allen Poe | C#, Javascript, Python, Unity, ML5.js, P5.js, Style Transfer, Generative Text, WebGL | [Project Page](https://mttjns.co.uk/Me-The-Machine-and-Edgar) |
 | **The Scholar and the Orphan King** | An interactive narrative game | C#, Unity, WebGL | [Project Page](https://mttjns.co.uk/TheOrphanKing) |
 | **Bruno** | A physical computing project exploring anthropomorphism | C++, Arduino, Physical Computing | [Project Page](https://mttjns.co.uk/Bruno) |

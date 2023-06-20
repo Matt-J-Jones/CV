@@ -1,8 +1,11 @@
 ## Matt Jones                               
     
-I am a career changer with seven years of experience in project management, currently transitioning to a software development career. My proudest achievement is self-teaching programming skills that earned me acceptance into a Master's level program in Game Design, providing a strong foundation in coding and development principles.
+I am a junior software developer transitioning from a background in engineering project management, with over seven years of experience. 
 
-What excites me most about technology is its limitless potential for innovation, especially in game development and AI. I am thrilled about the opportunity to leverage my skills and experience to create meaningful technology that positively impacts people's lives.
+[SOMETHING ELSE]
+
+I am thrilled about the opportunity to leverage my skills and experience to create meaningful technology that positively impacts people's lives.
+
 
 ## Projects
 
@@ -20,20 +23,19 @@ What excites me most about technology is its limitless potential for innovation,
 
 #### **Makers Academy (March 2023 to June 2023)**
 - Software Development Bootcamp
-  - Conducted pairing sessions to effectively solve problems using teamwork and communication.
-  - Worked in an Agile software development environment.
-  - Utilised Ruby and Javascript and practiced Test-Driven Development (TDD) with RSpec and Jest
-  - Collaborating with teams to build two web applications.
-  - Developed responsive user interfaces using JavaScript, React, and CSS, and effectively managed code versioning with Git and GitHub.
-  - Designed and implemented a scalable CRUD (Create, Read, Update, Delete) application using the MERN (MongoDB, Express, React, Node) stack.
+    - Conducting pairing sessions to effectively solve problems using teamwork and communication.
+    - Collaborating with teams to build web applications in an Agile software development environment.
+    - Utilising Ruby and Javascript and practising Test-Driven Development (TDD) with RSpec and Jest
+    - Developing responsive user interfaces using JavaScript, React, and CSS, and effectively managing code versioning with Git and GitHub.
+    - Designing and implementing a scalable CRUD (Create, Read, Update, Delete) applications using the MERN (MongoDB, Express, React, Node) stack.
 
-#### **Goldsmiths, University of London (September 2021 to October 2022)**
+#### **Goldsmiths, University of London (September 2021)**
 
 - MA Independent Games and Playable Experience Design
-  - Developed successful game projects in Unity using C#.
-  - Utilised C++ in OpenFrameworks creative computing and Arduino physical computing projects.
-  - Used ML5.js and P5.js libraries to implement machine learning and creative coding projects.
-  - Participated in Game Jams with teams and individually to produce projects to tight deadlines.
+    - Developing successful game projects in Unity using C#.
+    - Utilising C++ in OpenFrameworks creative computing and Arduino physical computing projects.
+    - Using ML5.js and P5.js libraries to implement machine learning and creative coding projects.
+    - Participating in Game Jams with teams and individually to produce projects to tight deadlines.
 
 #### **University of Central Lancashire (September 2004 to May 2009)**
 
@@ -72,23 +74,27 @@ What excites me most about technology is its limitless potential for innovation,
 - #### Communication 
     * Effective communication is a critical component of project management, and I excel in this area. I am skilled in communicating with stakeholders, team members, and customers, ensuring that everyone has a clear understanding of project goals, timelines, and requirements. My approachable nature and active listening skills allow me to build strong relationships with stakeholders, promoting open communication and ensuring project success.
 
+- #### HarvardX
+    * CS50G Introduction to Game Development
+        - Designing and creating 2D and 3D games using PyGame, Kaboom.js, Lua, LÖVE 2D, and Unity.
+
+- #### FreeCodeCamp
+    * Certificate in Responsive Web Design
+        - Using HTML and CSS to make responsive web projects.
+
+- #### IBM
+    * Python Basics for Data Science
+        - Using Python and Pandas to analyse and visualise data in a Jupyter Notebook.
+
 - #### Alpha Academy
     * PRINCE2 Foundation & Practitioner
 
 - #### SPOCE
     * AgilePM Practitioner
 
-- #### HarvardX
-    * CS50G Introduction to Game Development
-
-- #### FreeCodeCamp
-    * Certificate in Responsive Web Design
-
-- #### IBM
-    * Python Basics for Data Science
-
-- #### City & Guilds**
-    * AutoCAD 2D Level 3
-
 - #### Association for Project Management (APM)
     * Associate Member
+
+- #### City & Guilds
+    * AutoCAD 2D Level 3
+        - Certification to teach AutoCAD to an intermediate level. 

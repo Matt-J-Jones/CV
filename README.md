@@ -1,23 +1,25 @@
 ## Matt Jones                               
     
-I am a junior software developer transitioning from a background in engineering project management, with over seven years of experience. 
+I am a junior software developer transitioning from a background in engineering project management, with over seven years of experience encompassing transferable skills in project and people management, job planning, and facilitation.
 
-[SOMETHING ELSE]
+Throughout my career, I have worked on projects following both Waterfall and Agile methodologies, allowing me to adapt to different working environments and collaborate effectively within multi-level and multi-disciplinary teams.
 
 I am thrilled about the opportunity to leverage my skills and experience to create meaningful technology that positively impacts people's lives.
+
+[My Portfolio](www.mttjns.co.uk)
 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Link |
 | ---------------------------- | ----------------- | ----------------- | ----- |
-| **The London Underground Orchestra** | A webapp for the sonification of data calls from the TfL api. | Javascript, React, Node | [Live Site](https://lupo.onrender.com/) |   
-| **Moangoose** | A webapp to do allow users to create accounts and post 'moans' semi anonymously. | Javascript, MongoDB, Express, React, Node | [Github Repo](https://github.com/Matt-J-Jones/moangoose-MERN) |
-| **LairBnB** | A AirBnB-Style webapp that allows users to list and book properties | Ruby, Sinatra, Postgres, RSpec | [Github Repo](https://github.com/pablisch/lair-bnb) |
-| **Me, The Machine, and Edgar** | A collaborative game project between myself as a designer and an AI representation of Edgar Allen Poe | C#, Javascript, Python, Unity, ML5.js, P5.js, Style Transfer, Generative Text, WebGL | [Project Page](https://mttjns.co.uk/Me-The-Machine-and-Edgar) |
-| **The Scholar and the Orphan King** | An interactive narrative game | C#, Unity, WebGL | [Project Page](https://mttjns.co.uk/TheOrphanKing) |
-| **Bruno** | A physical computing project exploring anthropomorphism | C++, Arduino, Physical Computing | [Project Page](https://mttjns.co.uk/Bruno) |
-| **Self Portrait** | A creative computing project about the relationship between the artist and their art | C++, OpenFrameworks | [Project Page](https://mttjns.co.uk/SelfPortrait) |
+| **The London Underground Orchestra** | A front end web application utilising the TfL (Transport for London) API to transform live train arrival data into an engaging and interactive audio and visual experience. The train arrival information called from the API is sonified and mapped to the underground network, where notes have been assigned to each station and instruments to each of the lines. | Javascript, Tone.js, React, Node | [Live Site](https://lupo.onrender.com/) |   
+| **Moangoose** | A Facebook-like full stack CRUD web application that allows users to create accounts, post 'moans' and post comments on other ‘moans’. The information is stored on a linked database that stores user information, posts, and comments. | Javascript, MongoDB, Express, React, Node | [Github Repo](https://github.com/Matt-J-Jones/moangoose-MERN) |
+| **LairBnB** | An AirBnB-Style full stack web application with a Ruby backend that allows users to create and list spaces, and to request bookings on listed spaces. | Ruby, Sinatra, Postgres,  SQL, RSpec | [Github Repo](https://github.com/pablisch/lair-bnb) |
+|**Storyteller Dice**| A frontend web application that combines the element of chance with AI language generation. It generates a set of six images from a pool of thirty-six options and uses the GPT3.5 API to craft unique stories based on the selected images. | Javascript, JSX, React, GPT3.5 Generative Text, REST API | [Project Repo](https://github.com/Matt-J-Jones/story-dice) |
+| **Me, The Machine, and Edgar** | Unity 2D Game Project in which I collaborated with a machine learning model I trained on the complete works of Edgar Allan Poe. Using the model as a collaborative partner, I created a new and unique story experience based on the works of Poe. This project aimed to provoke discussion on the concept of authorship in the era of artificial intelligence. | C#, Javascript, Python, Unity, ML5.js, P5.js, Style Transfer, Generative Text, WebGL | [Project Page](https://mttjns.co.uk/Me-The-Machine-and-Edgar) |
+| **Bruno** | A physical computing project exploring anthropomorphism, using Arduino and C++ I created a small ‘robot’ that displays the symptoms of social anxieties. The aim of the project was to analyse why people attach human emotions and feelings to objects that, outwardly, display no human features. The project was displayed at the Goldsmiths ‘Mung’ midterm show. | C++, Arduino, Physical Computing | [Project Page](https://mttjns.co.uk/Bruno) |
+| **Self Portrait** | A creative computing piece written in C++ using OpenFrameworks, where a digitally generated random  'noise' pattern serves as a digital mirror to explore the relationship between the artist and their art. This project questions the conventional roles by reversing the artist's position, as they become a medium through which the computer creates the final artwork. | C++, OpenFrameworks | [Project Page](https://mttjns.co.uk/SelfPortrait) |
 
 ## Education
 
@@ -28,6 +30,7 @@ I am thrilled about the opportunity to leverage my skills and experience to crea
     - Utilising Ruby and Javascript and practising Test-Driven Development (TDD) with RSpec and Jest
     - Developing responsive user interfaces using JavaScript, React, and CSS, and effectively managing code versioning with Git and GitHub.
     - Designing and implementing a scalable CRUD (Create, Read, Update, Delete) applications using the MERN (MongoDB, Express, React, Node) stack.
+
 
 #### **Goldsmiths, University of London (September 2021)**
 
@@ -45,20 +48,20 @@ I am thrilled about the opportunity to leverage my skills and experience to crea
 
 - **Engineering Control Supplies Ltd** (April 2019 to March 2023)  
   - _Project Manager_
-    - Worked in a Waterfall manufacturing / fabrication project environment. 
-    - Managed end-to-end project lifecycle, from project quoting to delivery.
-    - Developed and reviewed project plans and schedules, forecasting and reporting on future and ongoing projects.
-    - Worked closely with cross-functional teams, vendors and stakeholders to ensure project success.
+    - Managing projects from inception to completion in a precision engineering field under the Waterfall project management methodology. 
+    - Developing and reviewing project plans and schedules, forecasting and reporting on future and ongoing projects.
+    - Working closely with cross-functional teams, vendors and stakeholders to ensure project success.
+
 - **Russell Cawberry Ltd** (June 2017 to March 2019)  
   - _CAD & Planning Coordinator_
-    - Produced accurate 2D CAD drawings according to project requirements.
-    - Maintained drawing version control, ensuring all project stakeholders have access to the most up-to-date drawings.
+    - Producing accurate 2D CAD drawings according to project requirements.
+    - Maintaining drawing version control, ensuring all project stakeholders have access to the most up-to-date drawings.
+
 - **Special Projects Ltd** (January 2014 to June 2017)
   - _Design Project Manager_
-    - Led pre-works procurement, including bid preparation and submission, and managing project budgets.
-    - Managed a small, multi-disciplinary team of designers, engineers, and contractors.
-    - Attended project briefings, ensuring the project team is fully informed of project requirements and timelines.
-
+    - Leading pre-works procurement, including bid preparation and submission, and managing project budgets.
+    - Managing a small, multi-disciplinary team of designers, engineers, and contractors.
+    - Attending project briefings, ensuring the project team is fully informed of project requirements and timelines.
 
 ## Skills
 

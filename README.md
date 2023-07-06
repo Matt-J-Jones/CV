@@ -1,4 +1,8 @@
-## Matt Jones                               
+## Matt Jones                         
+
+[My Portfolio](https://mttjns.co.uk/)<br>
+[My LinkedIn](https://www.linkedin.com/in/mattjosephjones)<br>
+hello@mttjns.co.uk
     
 I am a junior software developer transitioning from a background in engineering project management, with over seven years of experience encompassing transferable skills in project and people management, job planning, and facilitation.
 

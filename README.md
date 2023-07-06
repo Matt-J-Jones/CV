@@ -10,8 +10,6 @@ Throughout my career, I have worked on projects following both Waterfall and Agi
 
 I am thrilled about the opportunity to leverage my skills and experience to create meaningful technology that positively impacts people's lives.
 
-[My Portfolio](www.mttjns.co.uk)
-
 
 ## Projects
 

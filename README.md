@@ -1,24 +1,20 @@
 ## Matt Jones                         
 
-[My Portfolio](https://mttjns.co.uk/) | 
-[My LinkedIn](https://www.linkedin.com/in/mattjosephjones) | 
+[Portfolio](https://mttjns.co.uk/) | 
+[LinkedIn](https://www.linkedin.com/in/mattjosephjones) | 
 hello@mttjns.co.uk
     
-I am a junior software developer transitioning from a background in engineering project management, with over seven years of experience encompassing transferable skills in project and people management, job planning, and facilitation.
-
-Throughout my career, I have worked on projects following both Waterfall and Agile methodologies, allowing me to adapt to different working environments and collaborate effectively within multi-level and multi-disciplinary teams.
-
-I am thrilled about the opportunity to leverage my skills and experience to create meaningful technology that positively impacts people's lives.
+As an ambitious professional transitioning from project management to software development, and a recent graduate of Makers, I am excited to join a dynamic team where I can enhance my technical skills, contribute to innovative software solutions, and drive continuous improvement. With a strong project management foundation and a passion for coding, I adapt quickly, learn new technologies, and deliver high-quality outcomes. I have experience with both Waterfall and Agile methodologies, enabling me to thrive in diverse working environments and collaborate effectively within multi-level, multi-disciplinary teams. I am eager to leverage my Makers education and showcase my exceptional communication and teamwork skills to create meaningful technology that positively impacts people's lives. 
 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Link |
 | ---------------------------- | ----------------- | ----------------- | ----- |
-| **The London Underground Orchestra** | A front end web application utilising the TfL (Transport for London) API to transform live train arrival data into an engaging and interactive audio and visual experience. The train arrival information called from the API is sonified and mapped to the underground network, where notes have been assigned to each station and instruments to each of the lines. | Javascript, Tone.js, React, Node | [Live Site](https://lupo.onrender.com/) |   
-| **Moangoose** | A Facebook-like full stack CRUD web application that allows users to create accounts, post 'moans' and post comments on other ‘moans’. The information is stored on a linked database that stores user information, posts, and comments. | Javascript, MongoDB, Express, React, Node | [Github Repo](https://github.com/Matt-J-Jones/moangoose-MERN) |
-| **LairBnB** | An AirBnB-Style full stack web application with a Ruby backend that allows users to create and list spaces, and to request bookings on listed spaces. | Ruby, Sinatra, Postgres,  SQL, RSpec | [Github Repo](https://github.com/pablisch/lair-bnb) |
-|**Storyteller Dice**| A frontend web application that combines the element of chance with AI language generation. It generates a set of six images from a pool of thirty-six options and uses the GPT3.5 API to craft unique stories based on the selected images. | Javascript, JSX, React, GPT3.5 Generative Text, REST API | [Github Repo](https://github.com/Matt-J-Jones/story-dice) |
+| **The London Underground Orchestra** | A front-end web application utilising the TfL API to transform live train arrival data into an engaging and interactive audio and visual experience. The train arrival information called from the API is sonified and mapped to the underground network, where notes have been assigned to each station and instruments to each of the lines | Javascript, Tone.js, React, Node | [Live Site](https://lupo.onrender.com/) |   
+| **Moangoose** | A Facebook-like full-stack CRUD web application that allows users to create accounts, post 'moans' and post comments on other ‘moans’. The information is stored on a linked database that stores user information, posts, and comments. | Javascript, MongoDB, Express, React, Node | [Github Repo](https://github.com/Matt-J-Jones/moangoose-MERN) |
+| **LairBnB** | An AirBnB-Style full stack web application built in Ruby and Sinatra which allows users to create and list spaces, and to request bookings on listed spaces. | Ruby, Sinatra, Postgres,  SQL, RSpec | [Github Repo](https://github.com/pablisch/lair-bnb) |
+|**Storyteller Dice**| A frontend web application that blends random probability with AI language generation. It dynamically generates six captivating images from a diverse pool of thirty-six options and leverages the GPT3.5 API to craft unique stories based on the selected images. | Javascript, JSX, React, GPT3.5 Generative Text, REST API | [Github Repo](https://github.com/Matt-J-Jones/story-dice) |
 | **Me, The Machine, and Edgar** | Unity 2D Game Project in which I collaborated with a machine learning model I trained on the complete works of Edgar Allan Poe. Using the model as a collaborative partner, I created a new and unique story experience based on the works of Poe. This project aimed to provoke discussion on the concept of authorship in the era of artificial intelligence. | C#, Javascript, Python, Unity, ML5.js, P5.js, Style Transfer, Generative Text, WebGL | [Project Page](https://mttjns.co.uk/Me-The-Machine-and-Edgar) |
 | **Bruno** | A physical computing project exploring anthropomorphism, using Arduino and C++ I created a small ‘robot’ that displays the symptoms of social anxieties. The aim of the project was to analyse why people attach human emotions and feelings to objects that, outwardly, display no human features. The project was displayed at the Goldsmiths ‘Mung’ midterm show. | C++, Arduino, Physical Computing | [Project Page](https://mttjns.co.uk/Bruno) |
 | **Self Portrait** | A creative computing piece written in C++ using OpenFrameworks, where a digitally generated random  'noise' pattern serves as a digital mirror to explore the relationship between the artist and their art. This project questions the conventional roles by reversing the artist's position, as they become a medium through which the computer creates the final artwork. | C++, OpenFrameworks | [Project Page](https://mttjns.co.uk/SelfPortrait) |
@@ -46,13 +42,34 @@ I am thrilled about the opportunity to leverage my skills and experience to crea
 - _University of Central Lancashire_
     - Using critical thinking, analysis, and time management skills to complete projects to deadline to achieve a final grade of 2:1(Hons).
 
+## Courses
+
+**Python Basics for Data Science** IBM, April 2021
+- Using Python and Pandas to analyse and visualise data in a Jupyter Notebook.
+
+**CS50G Introduction to Game Development** HarvardX, May 2021
+- Designing and creating 2D and 3D games using PyGame, Kaboom.js, Lua, LÖVE 2D, and Unity.
+
+**Certificate in Responsive Web Design** FreeCodeCamp, August 2021 
+- Using HTML and CSS to make responsive web projects.
+
+**PRINCE2 Foundation & Practitioner** Alpha Academy, April 2019
+
+**AgilePM Practitioner** SPOCE, April 2019
+
+**AutoCAD 2D Level 3** City & Guilds, January 2014
+
+**Associate Member** Association for Project Management (APM), December 2018
+
 ## Work Experience
 
 - **Project Manager (April 2019 to March 2023)**
   - _Engineering Control Supplies_
-    - Managing projects from inception to completion in a precision engineering field under the Waterfall project management methodology. 
+    - Liaising with engineers and subcontractors to produce accurate project quotations and timelines for the client.
+    - Leading projects from inception to completion in a precision engineering field under the Waterfall project management methodology.
     - Developing and reviewing project plans and schedules, forecasting and reporting on future and ongoing projects.
-    - Working closely with cross-functional teams, vendors and stakeholders to ensure project success.
+    - Working closely with cross-functional teams, vendors and stakeholders to ensure successful delivery of projects in a fast-paced environment whilst maintaining internal and external KPI (Key Performance Indicator) and OTIF (On Time and In Full) delivery targets. 
+
 
 - **CAD & Planning Coordinator (June 2017 to March 2019)**
   - _Russell Cawberry_
@@ -61,9 +78,10 @@ I am thrilled about the opportunity to leverage my skills and experience to crea
 
 - **Special Projects Ltd** (January 2014 to June 2017)
   - _Design Project Manager_
-    - Leading pre-works procurement, including bid preparation and submission, and managing project budgets.
-    - Managing a small, multi-disciplinary team of designers, engineers, and contractors.
+    - Leading pre-works procurement, including bid preparation and submission, and project budgets.
+    - Fostering collaboration within a small, multi-disciplinary team of designers, engineers, and contractors to deliver projects to client specifications.
     - Attending project briefings, ensuring the project team is fully informed of project requirements and timelines.
+
 
 ## Skills
 

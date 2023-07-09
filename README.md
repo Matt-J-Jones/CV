@@ -1,7 +1,7 @@
 ## Matt Jones                         
 
-[My Portfolio](https://mttjns.co.uk/)<br>
-[My LinkedIn](https://www.linkedin.com/in/mattjosephjones)<br>
+[My Portfolio](https://mttjns.co.uk/) | 
+[My LinkedIn](https://www.linkedin.com/in/mattjosephjones) | 
 hello@mttjns.co.uk
     
 I am a junior software developer transitioning from a background in engineering project management, with over seven years of experience encompassing transferable skills in project and people management, job planning, and facilitation.
@@ -25,37 +25,37 @@ I am thrilled about the opportunity to leverage my skills and experience to crea
 
 ## Education
 
-#### **Makers Academy (March 2023 to June 2023)**
-- Software Development Bootcamp
+#### **Software Development Bootcamp (March 2023 to June 2023)**
+- _Makers Academy_
     - Conducting pairing sessions to effectively solve problems using teamwork and communication.
     - Collaborating with teams to build web applications in an Agile software development environment.
     - Utilising Ruby and Javascript and practising Test-Driven Development (TDD) with RSpec and Jest
     - Developing responsive user interfaces using JavaScript, React, and CSS, and effectively managing code versioning with Git and GitHub.
     - Designing and implementing a scalable CRUD (Create, Read, Update, Delete) applications using the MERN (MongoDB, Express, React, Node) stack.
 
+#### **MA Independent Games and Playable Experience Design (September 2021)**
 
-#### **Goldsmiths, University of London (September 2021)**
-
-- MA Independent Games and Playable Experience Design
+- _Goldsmiths, University of London_
     - Developing successful game projects in Unity using C#.
     - Utilising C++ in OpenFrameworks creative computing and Arduino physical computing projects.
     - Using ML5.js and P5.js libraries to implement machine learning and creative coding projects.
     - Participating in Game Jams with teams and individually to produce projects to tight deadlines.
 
-#### **University of Central Lancashire (September 2004 to May 2009)**
+#### **BA(Hons) Criminology & Criminal Justice (September 2004 to May 2009)**
 
-- BA(Hons) Criminology & Criminal Justice
+- _University of Central Lancashire_
+    - Using critical thinking, analysis, and time management skills to complete projects to deadline to achieve a final grade of 2:1(Hons).
 
 ## Work Experience
 
-- **Engineering Control Supplies Ltd** (April 2019 to March 2023)  
-  - _Project Manager_
+- **Project Manager (April 2019 to March 2023)**
+  - _Engineering Control Supplies_
     - Managing projects from inception to completion in a precision engineering field under the Waterfall project management methodology. 
     - Developing and reviewing project plans and schedules, forecasting and reporting on future and ongoing projects.
     - Working closely with cross-functional teams, vendors and stakeholders to ensure project success.
 
-- **Russell Cawberry Ltd** (June 2017 to March 2019)  
-  - _CAD & Planning Coordinator_
+- **CAD & Planning Coordinator (June 2017 to March 2019)**
+  - _Russell Cawberry_
     - Producing accurate 2D CAD drawings according to project requirements.
     - Maintaining drawing version control, ensuring all project stakeholders have access to the most up-to-date drawings.
 
@@ -78,28 +78,3 @@ I am thrilled about the opportunity to leverage my skills and experience to crea
 
 - #### Communication 
     * Effective communication is a critical component of project management, and I excel in this area. I am skilled in communicating with stakeholders, team members, and customers, ensuring that everyone has a clear understanding of project goals, timelines, and requirements. My approachable nature and active listening skills allow me to build strong relationships with stakeholders, promoting open communication and ensuring project success.
-
-- #### HarvardX
-    * CS50G Introduction to Game Development
-        - Designing and creating 2D and 3D games using PyGame, Kaboom.js, Lua, LÖVE 2D, and Unity.
-
-- #### FreeCodeCamp
-    * Certificate in Responsive Web Design
-        - Using HTML and CSS to make responsive web projects.
-
-- #### IBM
-    * Python Basics for Data Science
-        - Using Python and Pandas to analyse and visualise data in a Jupyter Notebook.
-
-- #### Alpha Academy
-    * PRINCE2 Foundation & Practitioner
-
-- #### SPOCE
-    * AgilePM Practitioner
-
-- #### Association for Project Management (APM)
-    * Associate Member
-
-- #### City & Guilds
-    * AutoCAD 2D Level 3
-        - Certification to teach AutoCAD to an intermediate level. 

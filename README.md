@@ -76,8 +76,8 @@ As an ambitious professional transitioning from project management to software d
     - Producing accurate 2D CAD drawings according to project requirements.
     - Maintaining drawing version control, ensuring all project stakeholders have access to the most up-to-date drawings.
 
-- **Special Projects Ltd** (January 2014 to June 2017)
-  - _Design Project Manager_
+- **Design Project Manager (January 2014 to June 2017)**
+  - _Special Projects_
     - Leading pre-works procurement, including bid preparation and submission, and project budgets.
     - Fostering collaboration within a small, multi-disciplinary team of designers, engineers, and contractors to deliver projects to client specifications.
     - Attending project briefings, ensuring the project team is fully informed of project requirements and timelines.
